@@ -1,1 +1,6 @@
-dwe strochki tekcta
+dwe strochki tekcta 
+k = year % 12
+if k == 0:
+    year_animal = "Monkey"
+elif k == 1:
+    year_animal = "Rooster"
